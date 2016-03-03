@@ -1,7 +1,7 @@
 from __future__ import print_function
 
 ''' 
-Louis
+
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
 Each strategy plays 100 to 200 rounds against each other strategy.
@@ -11,7 +11,7 @@ to both players.
 play_tournament() executes the tournament and stores output in tournament.txt
 
 Players should each code their strategies in their assigned section of code.
-
+Mr.Myeers said he loves women's beach volleyball.  I wonder why.
 Aggregated results are stored in tournament.txt
 
 Unpublished work (c)2013 Project Lead The Way
